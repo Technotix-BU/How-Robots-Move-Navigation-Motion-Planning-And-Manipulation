@@ -74,5 +74,5 @@
 [Trajectory planning for robot manipulators]: https://www.youtube.com/watch?v=Fd7wjZDoh7g
 [Visualize A* Algorithm]: https://clementmihailescu.github.io/Pathfinding-Visualizer/
 [3D Teleop manipulator]: https://colab.research.google.com/github/RussTedrake/manipulation/blob/master/intro.ipynb#scrollTo=C1sdq2R88C16
-[3D Teleop manipulator]: https://colab.research.google.com/github/RussTedrake/manipulation/blob/master/intro.ipynb#scrollTo=4cTkwpJU8tGX
+[2D Teleop manipulator]: https://colab.research.google.com/github/RussTedrake/manipulation/blob/master/intro.ipynb#scrollTo=4cTkwpJU8tGX
 [CyclonJs]: https://cylonjs.com/
