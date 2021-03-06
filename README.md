@@ -1,5 +1,7 @@
 # Technotix Workshop: How Robots Move - Navigation, Motion Planning and Manipulation
 
+![Front]
+
 ## Learn Robotics Basics
 - [Stanford Introduction to Robotics] - Video, Free
 - [Modern Robotics Northwestern] - Video, Free
@@ -45,7 +47,7 @@
 - [CyclonJs]
 
 
-
+[Front]: Front.png
 [A Gentle Introduction to ROS]: https://www.cse.sc.edu/~jokane/agitr/
 [ROS Documentation]: http://wiki.ros.org/Documentation
 [Dr. Anis Kouba Playlist]: https://www.youtube.com/watch?v=xgLETnSMMYA&list=PLSzYQGCXRW1HLWHdJ7ehZPA-nn7R9UKPa
